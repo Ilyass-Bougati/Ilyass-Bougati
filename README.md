@@ -12,10 +12,10 @@ I write about the engineering process (not just the output) at [blog.ilyass-boug
 - **Atlas**: A plugin for IntelliJ (a developer's code editor) that automates writing repetitive backend code, turning a task that takes hours into seconds. Built it because I was tired of writing the same boilerplate by hand, then made it good enough to share.
 - **spring-data-redis (open-source contribution)**: Contributed an annotation-driven Pub/Sub feature to spring-data-redis ([#3303](https://github.com/spring-projects/spring-data-redis/pull/3303), and [#3321](https://github.com/spring-projects/spring-data-redis/pull/3321)), a widely-used open-source library for backend systems. It was reviewed and merged by the project's lead maintainer at Spring/VMware, and now ships as part of the official release.
 
-## My blog
+<!--## My blog
 ![image](https://blog.ilyass-bougati.dev/api/card/1)
 ![image](https://blog.ilyass-bougati.dev/api/card/2)
-![image](https://blog.ilyass-bougati.dev/api/card/3)
+![image](https://blog.ilyass-bougati.dev/api/card/3)-->
 
-<!--## Technologie that I use
-[![My Skills](https://skillicons.dev/icons?i=react,java,spring,py,docker,k8s,kafka,prometheus,grafana,githubactions)](https://skillicons.dev)-->
+## Technologie that I use
+[![My Skills](https://skillicons.dev/icons?i=react,java,spring,py,docker,k8s,kafka,prometheus,grafana,githubactions)](https://skillicons.dev)
